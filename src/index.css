@@ -1,0 +1,17 @@
+h1,
+body,
+p {
+  margin: 0;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+img{
+  height: auto;
+  width: auto;
+}
