@@ -4,7 +4,7 @@ import { Header } from "./components/Header";
 import { About } from "./components/About";
 import { Skills } from "./components/Skills";
 import { Works } from "./components/Works";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Routes, Route, Link } from "react-router-dom";
 import { WorksItemJSX } from "./components/WorksItem.tsx";
 
 export type DataType = {
